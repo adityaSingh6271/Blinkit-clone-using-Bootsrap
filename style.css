@@ -258,3 +258,7 @@ td{
 
     /* Additional adjustments or overrides for smaller screens... */
 }
+
+#rights{
+    text-align: center;
+}
